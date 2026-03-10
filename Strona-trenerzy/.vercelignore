@@ -1,0 +1,12 @@
+node_modules
+dist
+logs
+reports
+.git
+.git_backup_monorepo
+dev-server.log
+preview-server.log
+*.log
+.env
+.env.*
+!*.example

@@ -1,4 +1,4 @@
-slug,displayName,website,status
+slug,displayName,website,status,vercel_project,vercel_url
 accounting-office-rachunkovnia-sp-o-o,Accounting Office Rachunkovnia sp. O.o,https://rachunkovnia.pl,ready
 ak-plus-biuro-rachunkowe-anna-klupczynska,AK-PLUS Biuro Rachunkowe Anna Klupczyńska,https://biurorachunkowe-poznan.eu,ready
 akama-dorota-wysocka,AKAMA Dorota Wysocka,https://wysocka-biuro-rachunkowe.pl,ready
@@ -33,7 +33,7 @@ biuro-rachunkowe-dm-sp-z-oo,BIURO RACHUNKOWE DM SP. Z OO,,ready
 biuro-rachunkowe-doradztwo-podatkowe,"Biuro Rachunkowe, doradztwo podatkowe",https://kdpo.pl,ready
 biuro-rachunkowe-ekonomik,Biuro Rachunkowe EKONOMIK,https://ekonomiksc.pl,ready
 biuro-rachunkowe-elzbieta-wawrzyniak,Biuro Rachunkowe Elżbieta Wawrzyniak,https://wawrzyniakbiuro.pl,ready
-biuro-rachunkowe-gama-izabela-mitkowska,Biuro Rachunkowe GAMA Izabela Mitkowska,https://gama-rachunkowosc.pl,ready
+biuro-rachunkowe-gama-izabela-mitkowska,Biuro Rachunkowe GAMA Izabela Mitkowska,https://gama-rachunkowosc.pl,ready,biuro-rachunkowe-gama,https://biuro-rachunkowe-gama.vercel.app
 biuro-rachunkowe-income-tax-weronika-greda,Biuro Rachunkowe Income Tax Weronika Gręda,https://incometax.pl,ready
 biuro-rachunkowe-infi,Biuro rachunkowe Infi,https://infi.com.pl,ready
 biuro-rachunkowe-infinitum-ksiegowosc-e-commerce,Biuro Rachunkowe INFINITUM księgowość e-commerce,https://infinitum-biurorachunkowe.pl,ready

@@ -26,6 +26,8 @@ lerna-debug.log*
 .env
 .env.*
 !.env.example
+vercel.local.env
+.vercel_token_tmp
 
 # Editor / OS
 .DS_Store

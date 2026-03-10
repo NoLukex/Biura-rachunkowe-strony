@@ -269,6 +269,35 @@ const readyBiuroSlugByTitle = new Map(
     .map((row) => [slugify(row.displayname || row.display_name || ''), row.slug] as const)
     .filter(([titleSlug]) => Boolean(titleSlug)),
 );
+const readyBiuroVercelProjectBySlug = new Map(
+  readyAccountingRows
+    .map((row) => [row.slug, row.vercel_project || ''] as const)
+    .filter(([, value]) => Boolean(value)),
+);
+const readyBiuroVercelUrlBySlug = new Map(
+  readyAccountingRows
+    .map((row) => [row.slug, row.vercel_url || ''] as const)
+    .filter(([, value]) => Boolean(value)),
+);
+
+function resolveAccountingBiuroSlugFromFields(title: string, website: string, leadSlug = ''): string {
+  const byHost = readyBiuroSlugByWebsiteHost.get(normalizeWebsiteHost(website));
+  if (byHost) {
+    return byHost;
+  }
+
+  const byTitle = readyBiuroSlugByTitle.get(slugify(title));
+  if (byTitle) {
+    return byTitle;
+  }
+
+  const strippedSlug = leadSlug.replace(/^poznan-biuro-/, '');
+  if (readyBiuroSlugs.has(strippedSlug)) {
+    return strippedSlug;
+  }
+
+  return '';
+}
 
 function buildSeedLeads(projectId: string): Lead[] {
   const queueRows = parseCsvObjects(queueCsvRaw);
@@ -515,6 +544,7 @@ function buildPoznanAccountingSeedLeads(projectId: string): Lead[] {
 
       const socialRaw = row.social_media || '';
       const emailStatus: Lead['emailStatus'] = email ? 'verified' : 'not_found';
+      const resolvedBiuroSlug = resolveAccountingBiuroSlugFromFields(title, row.strona || row.website || row.strona_www || '', slug);
 
       return {
         id: uid('lead'),
@@ -529,8 +559,8 @@ function buildPoznanAccountingSeedLeads(projectId: string): Lead[] {
         website: row.strona || row.website || row.strona_www || '',
         facebook: row.facebook || extractSocialLink(socialRaw, 'facebook'),
         instagram: row.instagram || extractSocialLink(socialRaw, 'instagram'),
-        vercelProject: 'biura-rachunkowe-poznan',
-        vercelUrl: row.url || '',
+        vercelProject: readyBiuroVercelProjectBySlug.get(resolvedBiuroSlug) || 'biura-rachunkowe-poznan',
+        vercelUrl: readyBiuroVercelUrlBySlug.get(resolvedBiuroSlug) || row.url || '',
         priority: 'medium',
         owner: '',
         tags: ['biura_rachunkowe_poznan_2026'],
@@ -583,26 +613,14 @@ function normalizeLead(lead: Lead): Lead {
 }
 
 function resolveAccountingBiuroSlug(lead: Lead): string {
-  const byHost = readyBiuroSlugByWebsiteHost.get(normalizeWebsiteHost(lead.website));
-  if (byHost) {
-    return byHost;
-  }
-
-  const byTitle = readyBiuroSlugByTitle.get(slugify(lead.title));
-  if (byTitle) {
-    return byTitle;
-  }
-
-  const strippedSlug = lead.slug.replace(/^poznan-biuro-/, '');
-  if (readyBiuroSlugs.has(strippedSlug)) {
-    return strippedSlug;
-  }
-
-  return '';
+  return resolveAccountingBiuroSlugFromFields(lead.title, lead.website, lead.slug);
 }
 
 function buildLocalTrainerUrl(lead: Lead): string {
   if (lead.projectId === ACCOUNTING_POZNAN_PROJECT_ID) {
+    if (lead.vercelUrl && /^https?:\/\//i.test(lead.vercelUrl) && !lead.vercelUrl.includes('google.com/maps')) {
+      return lead.vercelUrl;
+    }
     const biuroSlug = resolveAccountingBiuroSlug(lead);
     if (biuroSlug) {
       return `http://127.0.0.1:3000/?biuro=${biuroSlug}`;
