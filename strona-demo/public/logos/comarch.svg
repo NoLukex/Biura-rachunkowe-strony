@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" role="img" aria-label="Comarch">
+  <rect width="200" height="80" rx="14" fill="#ffffff"/>
+  <rect x="0" y="0" width="200" height="80" rx="14" fill="none" stroke="#e2e8f0"/>
+  <text x="100" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#0f172a">COMARCH</text>
+</svg>

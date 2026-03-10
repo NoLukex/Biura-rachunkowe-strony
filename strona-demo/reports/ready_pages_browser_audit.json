@@ -1,0 +1,2072 @@
+[
+  {
+    "slug": "am-kancelaria-rachunkowa-sp-z-o-o",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "am-kancelaria-rachunkowa-sp-z-o-o",
+      "navBrand": "AM Kancelaria Rachunkowa",
+      "heroH1": "AM Kancelaria RachunkowaKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/team-marta.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 2,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "biuro-rachunkowe-atoran",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "biuro-rachunkowe-atoran",
+      "navBrand": "Biuro Rachunkowe Atoran",
+      "heroH1": "Biuro Rachunkowe AtoranKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "biuro-rachunkowe-capital-sp-z-o-o",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "biuro-rachunkowe-capital-sp-z-o-o",
+      "navBrand": "Biuro Rachunkowe Capital",
+      "heroH1": "Biuro Rachunkowe CapitalKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "biuro-rachunkowe-clear-finance-sp-z-o-o",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "biuro-rachunkowe-clear-finance-sp-z-o-o",
+      "navBrand": "Biuro Rachunkowe Clear Finance",
+      "heroH1": "Biuro Rachunkowe Clear FinanceKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "biuro-rachunkowe-ekonomik",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "biuro-rachunkowe-ekonomik",
+      "navBrand": "Biuro Rachunkowe EKONOMIK",
+      "heroH1": "Biuro Rachunkowe EKONOMIKKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 2,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "biuro-rachunkowe-income-tax-weronika-greda",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "biuro-rachunkowe-income-tax-weronika-greda",
+      "navBrand": "Biuro Rachunkowe Income Tax Weronika Gręda",
+      "heroH1": "Biuro Rachunkowe Income Tax Weronika GrędaKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "biuro-rachunkowe-m-team",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "biuro-rachunkowe-m-team",
+      "navBrand": "Biuro Rachunkowe M-Team",
+      "heroH1": "Biuro Rachunkowe M-TeamKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "biuro-rachunkowe-pitownik-aneta-sniatkowska",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "biuro-rachunkowe-pitownik-aneta-sniatkowska",
+      "navBrand": "Biuro Rachunkowe PITOWNIK Aneta Śniatkowska",
+      "heroH1": "Biuro Rachunkowe PITOWNIK Aneta ŚniatkowskaKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 2,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "biuro-rachunkowe-poznan",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "biuro-rachunkowe-poznan",
+      "navBrand": "Biuro Rachunkowe Poznań",
+      "heroH1": "Biuro Rachunkowe PoznańKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "biuro-rachunkowe-poznan-2",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "biuro-rachunkowe-poznan-2",
+      "navBrand": "Biuro Rachunkowe Poznań",
+      "heroH1": "Biuro Rachunkowe PoznańKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 2,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "biuro-rachunkowe-taxo",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "biuro-rachunkowe-taxo",
+      "navBrand": "Biuro Rachunkowe TAXO",
+      "heroH1": "Biuro Rachunkowe TAXOKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 2,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "biuro-rachunkowe-value-business",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "biuro-rachunkowe-value-business",
+      "navBrand": "Biuro Rachunkowe Value Business",
+      "heroH1": "Biuro Rachunkowe Value BusinessKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "biuro-rachunkowe-wera",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "biuro-rachunkowe-wera",
+      "navBrand": "Biuro Rachunkowe Wera",
+      "heroH1": "Biuro Rachunkowe WeraKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 2,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "booq-sp-z-o-o",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "booq-sp-z-o-o",
+      "navBrand": "booq",
+      "heroH1": "booqKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "business-profit-biuro-rachunkowe",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "business-profit-biuro-rachunkowe",
+      "navBrand": "Business Profit Biuro Rachunkowe",
+      "heroH1": "Business Profit Biuro RachunkoweKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "certyfikowane-biuro-rachunkowe-rzis-pl",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "certyfikowane-biuro-rachunkowe-rzis-pl",
+      "navBrand": "Certyfikowane Biuro Rachunkowe RZIS.pl",
+      "heroH1": "Certyfikowane Biuro Rachunkowe RZIS.plKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "honett-us-ugi-ksiegowe-donata-kochanska",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "honett-us-ugi-ksiegowe-donata-kochanska",
+      "navBrand": "HONETT usługi księgowe Donata Kochańska",
+      "heroH1": "HONETT usługi księgowe Donata KochańskaKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 2,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "in-plus-tax",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "in-plus-tax",
+      "navBrand": "IN PLUS TAX",
+      "heroH1": "IN PLUS TAXKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "invoice-tax",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "invoice-tax",
+      "navBrand": "Invoice-Tax",
+      "heroH1": "Invoice-TaxKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/team-piotr.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 3,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "kancelaria-gospodarcza-szatkowscy-i-wspolnicy-sp-z-o-o",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "kancelaria-gospodarcza-szatkowscy-i-wspolnicy-sp-z-o-o",
+      "navBrand": "Kancelaria Gospodarcza Szatkowscy i Wspólnicy",
+      "heroH1": "Kancelaria Gospodarcza Szatkowscy i WspólnicyKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 3,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "kancelaria-podatkowa-andrzej-nowak-sp-z-o-o",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "kancelaria-podatkowa-andrzej-nowak-sp-z-o-o",
+      "navBrand": "Kancelaria Podatkowa Andrzej Nowak",
+      "heroH1": "Kancelaria Podatkowa Andrzej NowakKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 3,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "kancelaria-rachunkowa-denarius-sp-z-o-o",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "kancelaria-rachunkowa-denarius-sp-z-o-o",
+      "navBrand": "Kancelaria Rachunkowa Denarius",
+      "heroH1": "Kancelaria Rachunkowa DenariusKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 3,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "kancelaria-us-ug-ksiegowych-tyniec-partnerzy",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "kancelaria-us-ug-ksiegowych-tyniec-partnerzy",
+      "navBrand": "Kancelaria Usług Księgowych Tyniec & Partnerzy",
+      "heroH1": "Kancelaria Usług Księgowych Tyniec & PartnerzyKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/team-marta.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "magdalena-mielcarek",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "magdalena-mielcarek",
+      "navBrand": "Magdalena Mielcarek",
+      "heroH1": "Magdalena MielcarekKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/team-marta.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "optimum-accounting-office-poznan",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "optimum-accounting-office-poznan",
+      "navBrand": "OPTIMUM - Accounting Office Poznan",
+      "heroH1": "OPTIMUM - Accounting Office PoznanKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 1,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "pg-partner-gospodarczy",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "pg-partner-gospodarczy",
+      "navBrand": "PG Partner Gospodarczy",
+      "heroH1": "PG Partner GospodarczyKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 2,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "sobieraj-i-kuzmin-sp-z-o-o-biuro-rachunkowe-poznan",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "sobieraj-i-kuzmin-sp-z-o-o-biuro-rachunkowe-poznan",
+      "navBrand": "Sobieraj i Kuźmin . Biuro rachunkowe Poznań",
+      "heroH1": "Sobieraj i Kuźmin . Biuro rachunkowe PoznańKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 2,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "taxcoach-sp-z-o-o-biuro-rachunkowe",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "taxcoach-sp-z-o-o-biuro-rachunkowe",
+      "navBrand": "TaxCoach . Biuro rachunkowe",
+      "heroH1": "TaxCoach . Biuro rachunkoweKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 2,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "taxeo-accounting-office-poznan",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "taxeo-accounting-office-poznan",
+      "navBrand": "Taxeo Accounting Office Poznań",
+      "heroH1": "Taxeo Accounting Office PoznańKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 2,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  },
+  {
+    "slug": "taxshield-biuro-rachunkowe-online",
+    "routeStatuses": [
+      {
+        "route": "/",
+        "status": 200
+      },
+      {
+        "route": "/pelna-ksiegowosc",
+        "status": 200
+      },
+      {
+        "route": "/kpir-ryczalt",
+        "status": 200
+      },
+      {
+        "route": "/kadry-zus",
+        "status": 200
+      },
+      {
+        "route": "/obsluga-ksef",
+        "status": 200
+      },
+      {
+        "route": "/doradztwo-podatkowe",
+        "status": 200
+      },
+      {
+        "route": "/sprawozdania",
+        "status": 200
+      },
+      {
+        "route": "/o-nas",
+        "status": 200
+      },
+      {
+        "route": "/wiedza",
+        "status": 200
+      }
+    ],
+    "homepage": {
+      "slug": "taxshield-biuro-rachunkowe-online",
+      "navBrand": "TaxShield Biuro Rachunkowe Online",
+      "heroH1": "TaxShield Biuro Rachunkowe OnlineKsięgowość i podatki dla firm",
+      "heroImageSrc": "/images/hero-accountant.jpg",
+      "hasNavbarLogoImg": true,
+      "hasHeroBadgeLogoImg": true,
+      "hasFooterLogoImg": true,
+      "teamHeading": "Zespół i opiekun współpracy",
+      "teamImageCount": 3,
+      "duplicateTeamImages": false,
+      "nonPersonTeamImage": false,
+      "hasEfektyHeading": true,
+      "hasWzorcowyEfektyHeading": true,
+      "hasStats100": true,
+      "hasStats24h": true,
+      "hasStats10y": true,
+      "trustStripCount": 1,
+      "hasContactWebsiteLabel": false,
+      "socialCount": 3,
+      "heroHasNonPersonToken": false,
+      "heroIsFallback": false
+    },
+    "issues": [],
+    "issueCount": 0,
+    "criticalCount": 0,
+    "majorCount": 0,
+    "minorCount": 0
+  }
+]

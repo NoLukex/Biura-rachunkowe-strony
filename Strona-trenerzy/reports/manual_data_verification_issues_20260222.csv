@@ -1,0 +1,17 @@
+slug,issue_type,details
+dawid-cichanski,verified_email_missing,emailStatus=verified but profileEmail empty
+forever-athlete-vincent-marek,verified_email_missing,emailStatus=verified but profileEmail empty
+kaja-narkun,verified_email_missing,emailStatus=verified but profileEmail empty
+maciej-karolczyk-trener-personalny,verified_email_missing,emailStatus=verified but profileEmail empty
+maja-burek-trener-personalny,verified_email_missing,emailStatus=verified but profileEmail empty
+mateusz-mazur,verified_email_missing,emailStatus=verified but profileEmail empty
+mikolaj-karaszewski-fitness-lifestyle,verified_email_missing,emailStatus=verified but profileEmail empty
+oskar-kaliszewski-trener-personalny,verified_email_missing,emailStatus=verified but profileEmail empty
+patryk-kozikowski,verified_email_missing,emailStatus=verified but profileEmail empty
+trener-personalny-bydgoszcz-nicolas-marysiak,verified_email_missing,emailStatus=verified but profileEmail empty
+trener-personalny-szymon-idzinski,verified_email_missing,emailStatus=verified but profileEmail empty
+trener-radoslaw-habera,verified_email_missing,emailStatus=verified but profileEmail empty
+bartosz-jaszczak-trener-personalny-bydgoszcz,multi_value_social,instagram:multi_value
+trener-personalny-kamil-makowski,multi_value_social,instagram:multi_value
+wiktoria-wasik,multi_value_social,instagram:multi_value;facebook:multi_value
+jakub-stypczynski-trener-personalny-bydgoszcz,suspicious_email,%20stypczynsky@o2.p

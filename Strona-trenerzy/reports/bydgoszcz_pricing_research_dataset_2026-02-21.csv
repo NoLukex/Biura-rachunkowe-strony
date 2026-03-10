@@ -1,0 +1,50 @@
+source_type,source_name,provider,offer_name,total_price_pln,sessions_assumed,duration_min,effective_price_per_session_pln,effective_price_per_60m_pln,url,note
+marketplace,Booksy,Trener Personalny Zuzanna W,pierwszy trening promo,80.00,1,60,80.00,80.00,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,promo visible on listing page
+marketplace,Booksy,ComplexGrow,trening personalny promo,135.00,1,60,135.00,135.00,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,promo visible on listing page
+marketplace,Booksy,ComplexGrow,trening wprowadzajacy promo,117.00,1,60,117.00,117.00,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,promo visible on listing page
+marketplace,Booksy,Jagoda Konczal,trening personalny 1:1 promo,151.80,1,60,151.80,151.80,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,promo visible on listing page
+marketplace,Booksy,DOFizjo,trening personalny,200.00,1,60,200.00,200.00,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,standard visible on listing page
+marketplace,Booksy,Studio Sprawnosc,trening zdrowotny promo,126.00,1,60,126.00,126.00,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,promo visible on listing page
+marketplace,Booksy,Strefa Sprawnych Miesni,trening personalny,170.00,1,60,170.00,170.00,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,standard visible on listing page
+marketplace,Booksy,FreshLife,trening indywidualny promo,135.00,1,45,135.00,180.00,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,duration 45 min; normalized to 60 min
+marketplace,Booksy,Atletyczna Sila,trening personalny,150.00,1,60,150.00,150.00,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,listed as 150+ PLN
+marketplace,Booksy,Soft Move,trening medyczny,180.00,1,50,180.00,216.00,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,duration 50 min; normalized to 60 min
+marketplace,Booksy,Studio Rownowaga,trening personalny,160.00,1,60,160.00,160.00,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,standard visible on listing page
+marketplace,Booksy,Klinika Sportu,trening personalny 60 min,170.00,1,60,170.00,170.00,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,standard visible on listing page
+marketplace,Booksy,Klinika Sportu,trening personalny 90 min,220.00,1,90,220.00,146.67,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,duration 90 min; normalized to 60 min
+marketplace,Booksy,Polcon,trening personalny,120.00,1,60,120.00,120.00,https://booksy.com/pl-pl/s/trening-personalny/22068_bydgoszcz,standard visible on listing page
+marketplace,ZnanyLekarz,Marta Fuz,trening personalny,150.00,1,60,150.00,150.00,https://www.znanylekarz.pl/uslugi-zabiegi/trening-personalny/bydgoszcz,price displayed on listing
+marketplace,ZnanyLekarz,Karolina Siwek,trening personalny,180.00,1,60,180.00,180.00,https://www.znanylekarz.pl/uslugi-zabiegi/trening-personalny/bydgoszcz,price displayed on listing
+marketplace,ZnanyLekarz,Kamila Zawadzka,trening personalny,190.00,1,60,190.00,190.00,https://www.znanylekarz.pl/uslugi-zabiegi/trening-personalny/bydgoszcz,price displayed on listing
+marketplace,ZnanyLekarz,Agnieszka Majewska,trening personalny,170.00,1,60,170.00,170.00,https://www.znanylekarz.pl/uslugi-zabiegi/trening-personalny/bydgoszcz,price displayed on listing
+direct,DariaFit,Daria Petla,trening personalny,119.00,1,60,119.00,119.00,https://dariafit.pl/cennik/,price listed as PLN per hour
+direct,DariaFit,Daria Petla,pakiet 4 treningow,109.00,1,60,109.00,109.00,https://dariafit.pl/cennik/,listed as PLN per hour in monthly package
+direct,DariaFit,Daria Petla,pakiet 8 treningow,99.00,1,60,99.00,99.00,https://dariafit.pl/cennik/,listed as PLN per hour in monthly package
+direct,BartoszJaszczak,Bartosz Jaszczak,trening jednorazowy,150.00,1,60,150.00,150.00,https://bartoszjaszczak.pl/cennik/,single 60 min session
+direct_assumed_sessions,BartoszJaszczak,Bartosz Jaszczak,pakiet 2x tygodniowo miesiecznie,1190.00,8,60,148.75,148.75,https://bartoszjaszczak.pl/cennik/,assumed 8 sessions in 4 weeks
+direct_assumed_sessions,BartoszJaszczak,Bartosz Jaszczak,pakiet 3x tygodniowo miesiecznie,1590.00,12,60,132.50,132.50,https://bartoszjaszczak.pl/cennik/,assumed 12 sessions in 4 weeks
+direct_assumed_sessions,BartoszJaszczak,Bartosz Jaszczak,pakiet 4x tygodniowo miesiecznie,1990.00,16,60,124.38,124.38,https://bartoszjaszczak.pl/cennik/,assumed 16 sessions in 4 weeks
+direct,RuchStudio,RUCH,trening personalny,180.00,1,60,180.00,180.00,https://ruchstudio.pl/cennik/,single 60 min session
+direct,RuchStudio,RUCH,pakiet 5 treningow personalnych,800.00,5,60,160.00,160.00,https://ruchstudio.pl/cennik/,package listed in cennik
+direct,RuchStudio,RUCH,pakiet 10 treningow personalnych,1500.00,10,60,150.00,150.00,https://ruchstudio.pl/cennik/,package listed in cennik
+direct,RuchStudio,RUCH,pakiet 20 treningow personalnych,2800.00,20,60,140.00,140.00,https://ruchstudio.pl/cennik/,package listed in cennik
+direct,RadoslawHabera,Radoslaw Habera,trening personalny 1h,180.00,1,60,180.00,180.00,https://radoslawhabera.pl/,table in cennik section
+direct,RadoslawHabera,Radoslaw Habera,pakiet 10h,1600.00,10,60,160.00,160.00,https://radoslawhabera.pl/,table in cennik section
+direct,Rewital,Rewital,trening personalny,150.00,1,60,150.00,150.00,http://rewital.byd.pl/79-cennik-trening-personalny,single session listed
+direct,Rewital,Rewital,pakiet 4 spotkania miesiecznie,550.00,4,60,137.50,137.50,http://rewital.byd.pl/79-cennik-trening-personalny,monthly package listed
+direct,Rewital,Rewital,pakiet 8 spotkan miesiecznie,850.00,8,60,106.25,106.25,http://rewital.byd.pl/79-cennik-trening-personalny,monthly package listed
+direct,Rewital,Rewital,pakiet 12 spotkan miesiecznie,1100.00,12,60,91.67,91.67,http://rewital.byd.pl/79-cennik-trening-personalny,monthly package listed
+direct,FitLife,FitLife,trening personalny,180.00,1,60,180.00,180.00,https://fitlifestudio.pl/cennik/,single entry in cennik
+direct,FitLife,FitLife,pakiet 5 wejsc,850.00,5,60,170.00,170.00,https://fitlifestudio.pl/cennik/,package in cennik table
+direct,FitLife,FitLife,pakiet 10 wejsc,1600.00,10,60,160.00,160.00,https://fitlifestudio.pl/cennik/,package in cennik table
+direct,FitLife,Natalia Hoft,trening personalny/fizjoterapia,220.00,1,60,220.00,220.00,https://fitlifestudio.pl/cennik/,premium trainer line in cennik
+direct,FitLife,Natalia Hoft,pakiet 5 wejsc,1050.00,5,60,210.00,210.00,https://fitlifestudio.pl/cennik/,premium trainer package line
+direct,FitLife,Natalia Hoft,pakiet 10 wejsc,2000.00,10,60,200.00,200.00,https://fitlifestudio.pl/cennik/,premium trainer package line
+direct,MSStudio,MS Studio,trening personalny/masaz klasyczny,200.00,1,60,200.00,200.00,https://msstudiobydgoszcz.pl/cennik/,single entry in cennik section
+direct,MSStudio,MS Studio,pakiet 5 wejsc,950.00,5,60,190.00,190.00,https://msstudiobydgoszcz.pl/cennik/,package entry in cennik section
+direct,MSStudio,MS Studio,pakiet 10 wejsc,1700.00,10,60,170.00,170.00,https://msstudiobydgoszcz.pl/cennik/,package entry in cennik section
+direct,MSStudio,MS Studio,pakiet 20 wejsc,3100.00,20,60,155.00,155.00,https://msstudiobydgoszcz.pl/cennik/,package entry in cennik section
+direct,RuchNaturalny,Igor Bilinskyi,pakiet 4 treningi,700.00,4,60,175.00,175.00,https://ruchnaturalny.pl/trening-personalny/,package page
+direct,RuchNaturalny,Igor Bilinskyi,pakiet 8 treningow,1350.00,8,60,168.75,168.75,https://ruchnaturalny.pl/trening-personalny/,package page
+direct,RuchNaturalny,Igor Bilinskyi,pakiet 12 treningow,1900.00,12,60,158.33,158.33,https://ruchnaturalny.pl/trening-personalny/,package page
+direct_running_specialist,Brzezinski,Blazej Brzezinski,trening indywidualny,150.00,1,60,150.00,150.00,https://trenerbiegania-bydgoszcz.pl/cennik/,running specialist personal session

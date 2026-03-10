@@ -1,0 +1,4 @@
+metric,before,after,delta
+match,1,0,-1
+mismatch,35,38,3
+partial,3,1,-2

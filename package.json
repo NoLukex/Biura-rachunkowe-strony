@@ -1,0 +1,19 @@
+{
+  "name": "biura-rachunkowe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@different-ai/opencode-browser": "^4.6.1",
+    "@franlol/opencode-md-table-formatter": "^0.0.3",
+    "@tarquinen/opencode-dcp": "^1.2.7",
+    "opencode-mem": "^2.11.7"
+  }
+}

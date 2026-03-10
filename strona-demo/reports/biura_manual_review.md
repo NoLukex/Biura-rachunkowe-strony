@@ -1,0 +1,118 @@
+# Manual Review Checklist - Biura rachunkowe
+
+- Total profiles: **125**
+- High confidence: **64**
+- Medium confidence: **35**
+- Low confidence: **26**
+
+## Profiles requiring manual media check
+- `akama-dorota-wysocka` - AKAMA Dorota Wysocka
+- `am-kancelaria-rachunkowa-sp-z-o-o` - AM Kancelaria Rachunkowa Sp. z o.o.
+- `amida-biuro-rachunkowe` - AMIDA. Biuro rachunkowe
+- `as-ksiegowosc-sp-z-o-o` - AS KSIĘGOWOŚĆ SP. Z O.O.
+- `ascs-consulting-biuro-rachunkowe` - ASCS-Consulting Biuro Rachunkowe
+- `accounting-office-rachunkovnia-sp-o-o` - Accounting Office Rachunkovnia sp. O.o.
+- `biuro-ksiegowe` - BIURO KSIĘGOWE
+- `biuro-rachunkowe-dm-sp-z-oo` - BIURO RACHUNKOWE DM SP. Z OO
+- `biuro-nix-us-ugi-ksiegowe-sp-z-o-o` - BIURO-NIX Usługi Księgowe Sp.z o.o.
+- `biuro-prawno-rachunkowe-maciej-skorupinski` - Biuro Prawno-Rachunkowe Maciej Skorupiński
+- `biuro-rachunkowe` - Biuro Rachunkowe
+- `biuro-rachunkowe-ad-plus` - Biuro Rachunkowe AD-plus
+- `biuro-rachunkowe-agus-agnieszka-augustyniak` - Biuro Rachunkowe AGUS Agnieszka Augustyniak
+- `biuro-rachunkowe-algor` - Biuro Rachunkowe Algor
+- `biuro-rachunkowe-aneta-milewska-koz-owska-ksiegowosc-us-ugi-ksiegowe` - Biuro Rachunkowe Aneta Milewska- Kozłowska Księgowość Usługi Księgowe
+- `biuro-rachunkowe-b-b-i` - Biuro Rachunkowe B&B I Бухгалтерия
+- `biuro-rachunkowe-consulting-tax-sp-z-o-o` - Biuro Rachunkowe CONSULTING-TAX sp. z o.o.
+- `biuro-rachunkowe-capital-sp-z-o-o` - Biuro Rachunkowe Capital Sp. z o. o.
+- `biuro-rachunkowe-clear-finance-sp-z-o-o` - Biuro Rachunkowe Clear Finance Sp. z o.o.
+- `biuro-rachunkowe-dino` - Biuro Rachunkowe Dino
+- `biuro-rachunkowe-gama-izabela-mitkowska` - Biuro Rachunkowe GAMA Izabela Mitkowska
+- `biuro-rachunkowe-income-tax-weronika-greda` - Biuro Rachunkowe Income Tax Weronika Gręda
+- `biuro-rachunkowe-jw` - Biuro Rachunkowe JW
+- `biuro-rachunkowe-kmt-finance` - Biuro Rachunkowe KMT Finance
+- `biuro-rachunkowe-krzysztof-bejgerowski` - Biuro Rachunkowe Krzysztof Bejgerowski
+- `biuro-rachunkowe-mk-paw-owscy` - Biuro Rachunkowe MK Pawłowscy
+- `biuro-rachunkowe-mk-bilans` - Biuro Rachunkowe MK-BILANS
+- `biuro-rachunkowe-mm-accounting-sp-z-o-o` - Biuro Rachunkowe MM Accounting Sp. z o.o.
+- `biuro-rachunkowe-ms-monika-stefaniak-poznan` - Biuro Rachunkowe MS Monika Stefaniak Poznań
+- `biuro-rachunkowe-merito-poznan` - Biuro Rachunkowe Merito Poznań
+- `biuro-rachunkowe-pit` - Biuro Rachunkowe PIT
+- `biuro-rachunkowe-sodelis` - Biuro Rachunkowe SODELIS
+- `biuro-rachunkowe-stefanska-anna` - Biuro Rachunkowe Stefańska Anna
+- `biuro-rachunkowe-2` - Biuro rachunkowe
+- `biuro-rachunkowe-adler` - Biuro rachunkowe Adler
+- `biuro-rachunkowe-infi` - Biuro rachunkowe Infi
+- `biuro-rachunkowe-kaizen-mateusz-baczyk` - Biuro rachunkowe KAIZEN Mateusz Bączyk
+- `biuro-rachunkowe-molard` - Biuro rachunkowe MOLARD
+- `biuro-rachunkowe-poznan-nowoczesne-systemy-finansowe` - Biuro rachunkowe Poznań Nowoczesne Systemy Finansowe
+- `biuro-rozliczen-zagranicznych` - Biuro rozliczeń zagranicznych
+- `business-profit-biuro-rachunkowe` - Business Profit Biuro Rachunkowe
+- `centrum-us-ug-rachunkowych` - Centrum Usług Rachunkowych
+- `ferma-cyfr` - Ferma Cyfr
+- `fineko-accounting-poznan` - Fineko. Accounting Poznan
+- `g-tax` - G-TAX
+- `grakon-sp-z-o-o` - Grakon Sp. z o. o.
+- `hencel-biuro-rachunkowe-poznan` - Hencel biuro rachunkowe Poznań
+- `in-plus-tax` - IN PLUS TAX
+- `in-come-sp-z-o-o` - IN.COME Sp. z o. o.
+- `invoice-tax` - Invoice-Tax
+- `jp-joanna-niedworok-nowak` - JP Joanna Niedworok-Nowak
+- `jeske-magdalena-auditor-accounting-office` - Jeske Magdalena auditor. accounting Office
+- `kancelaria-rachunkowa-kmn-prestige-spo-ka-z-ograniczona` - KANCELARIA RACHUNKOWA KMN PRESTIGE SPÓŁKA Z OGRANICZONĄ
+- `kancelaria-doradcy-podatkowego-anna-cegielska` - Kancelaria Doradcy Podatkowego Anna Cegielska
+- `kancelaria-gospodarcza-szatkowscy-i-wspolnicy-sp-z-o-o` - Kancelaria Gospodarcza Szatkowscy i Wspólnicy Sp. z o.o.
+- `kancelaria-laurus-sp-z-o-o` - Kancelaria Laurus sp. z o.o.
+- `kancelaria-rachunkowa-denarius-sp-z-o-o` - Kancelaria Rachunkowa Denarius Sp. z o.o.
+- `katarzyna-burzynska` - Katarzyna Burzyńska
+- `ksiegowa-ewa-wojciechowska` - Księgowa Ewa Wojciechowska
+- `ksiegowosc` - Księgowość
+- `ksiegowy-expert` - Księgowy EXPERT
+- `libra-biuro-rachunkowe` - Libra Biuro Rachunkowe
+- `magdalena-mielcarek` - Magdalena Mielcarek
+- `maria-lipka` - Maria Lipka
+- `marta-sowa` - Marta Sowa
+- `md-biuro-rachunkowe-ma-gorzata-dudziak` - Md Biuro Rachunkowe Małgorzata Dudziak
+- `mega-lex-corp` - Mega Lex Corp.
+- `pg-partner-gospodarczy` - PG Partner Gospodarczy
+- `polskie-centrum-rachunkowosci` - Polskie Centrum Rachunkowości
+- `profit-biuro-rachunkowe` - Profit. Biuro rachunkowe
+- `renata-pempera-biuro-rachunkowe` - Renata Pempera Biuro Rachunkowe
+- `smctax` - SmcTax
+- `spectrum-biuro-rachunkowe` - Spectrum Biuro Rachunkowe
+- `taxeo-accounting-office-poznan` - Taxeo Accounting Office Poznań
+- `taxodus-biuro-ksiegowe-poznan-awica-biuro-rachunkowe` - Taxodus Biuro Księgowe Poznań Ławica Biuro Rachunkowe
+- `vespa-biuro-rachunkowe` - VESPA Biuro Rachunkowe
+- `wikom-biuro-rachunkowe` - Wikom Biuro Rachunkowe
+- `zmarz-jolanta-biuro-rachunkowe` - Zmarz Jolanta. Biuro rachunkowe
+- `booq-sp-z-o-o` - booq sp. z o.o.
+- `bras7-pl-biuro-rachunkowe` - bras7.pl Biuro Rachunkowe
+
+## Profiles requiring manual pricing check
+
+## Low-confidence profiles
+- `as-ksiegowosc-sp-z-o-o` - AS KSIĘGOWOŚĆ SP. Z O.O.
+- `ascs-consulting-biuro-rachunkowe` - ASCS-Consulting Biuro Rachunkowe
+- `biuro-ksiegowe` - BIURO KSIĘGOWE
+- `biuro-rachunkowe-dm-sp-z-oo` - BIURO RACHUNKOWE DM SP. Z OO
+- `biuro-nix-us-ugi-ksiegowe-sp-z-o-o` - BIURO-NIX Usługi Księgowe Sp.z o.o.
+- `biuro-rachunkowe` - Biuro Rachunkowe
+- `biuro-rachunkowe-agus-agnieszka-augustyniak` - Biuro Rachunkowe AGUS Agnieszka Augustyniak
+- `biuro-rachunkowe-algor` - Biuro Rachunkowe Algor
+- `biuro-rachunkowe-income-tax-weronika-greda` - Biuro Rachunkowe Income Tax Weronika Gręda
+- `biuro-rachunkowe-mk-bilans` - Biuro Rachunkowe MK-BILANS
+- `biuro-rachunkowe-sodelis` - Biuro Rachunkowe SODELIS
+- `biuro-rozliczen-zagranicznych` - Biuro rozliczeń zagranicznych
+- `centrum-us-ug-rachunkowych` - Centrum Usług Rachunkowych
+- `ferma-cyfr` - Ferma Cyfr
+- `hencel-biuro-rachunkowe-poznan` - Hencel biuro rachunkowe Poznań
+- `kancelaria-rachunkowa-kmn-prestige-spo-ka-z-ograniczona` - KANCELARIA RACHUNKOWA KMN PRESTIGE SPÓŁKA Z OGRANICZONĄ
+- `katarzyna-burzynska` - Katarzyna Burzyńska
+- `ksiegowosc` - Księgowość
+- `ksiegowy-expert` - Księgowy EXPERT
+- `libra-biuro-rachunkowe` - Libra Biuro Rachunkowe
+- `maria-lipka` - Maria Lipka
+- `polskie-centrum-rachunkowosci` - Polskie Centrum Rachunkowości
+- `profit-biuro-rachunkowe` - Profit. Biuro rachunkowe
+- `smctax` - SmcTax
+- `zmarz-jolanta-biuro-rachunkowe` - Zmarz Jolanta. Biuro rachunkowe
+- `infakt` - inFakt

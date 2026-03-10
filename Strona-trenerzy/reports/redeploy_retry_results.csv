@@ -1,0 +1,147 @@
+slug,project,status,url,note
+jakub-stypczynski-trener-personalny-bydgoszcz,trener-jakub-stypczynski-trener-personalny-bydgoszcz,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-jakub-stypczynski-trener-personalny-bydgoszcz
+Uploading [--------------------] (0.0B/9.5KB)
+Uploading [===================-] (9.4KB/9.5KB)
+Uploading [====================] (9.5KB/9.5KB)
+Error: Resource is limited - try "
+kacper-wendrowski-trener-personalny-bydgoszcz,trener-kacper-wendrowski-trener-personalny-bydgoszcz,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-kacper-wendrowski-trener-personalny-bydgoszcz
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+kaja-narkun,trener-kaja-narkun,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-kaja-narkun
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+kamil-rzepka-body-practiz-trener-personalny-trener-osobisty,trener-kamil-rzepka-body-practiz-trener-personalny-trener-osobisty,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-kamil-rzepka-body-practiz-trener-personalny-trener-osobisty
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+karol-siemianowski,trener-karol-siemianowski,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-karol-siemianowski
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+lukasz-dziennik-atletyczna-sila,trener-lukasz-dziennik-atletyczna-sila,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-lukasz-dziennik-atletyczna-sila
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+maciej-karolczyk-trener-personalny,trener-maciej-karolczyk-trener-personalny,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-maciej-karolczyk-trener-personalny
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+maja-burek-trener-personalny,trener-maja-burek-trener-personalny,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-maja-burek-trener-personalny
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+maksymilian-papierowski-trener-personalny,trener-maksymilian-papierowski-trener-personalny,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-maksymilian-papierowski-trener-personalny
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+marcin-osak-trener-personalny,trener-marcin-osak-trener-personalny,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-marcin-osak-trener-personalny
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+mateusz-gawarkiewicz,trener-mateusz-gawarkiewicz,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-mateusz-gawarkiewicz
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+mateusz-mazur,trener-mateusz-mazur,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-mateusz-mazur
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+mikolaj-karaszewski-fitness-lifestyle,trener-mikolaj-karaszewski-fitness-lifestyle,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-mikolaj-karaszewski-fitness-lifestyle
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+norbert-lysiak-trener-osobisty-triathlon-mtb-plywanie,trener-norbert-lysiak-trener-osobisty-triathlon-mtb-plywanie,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-norbert-lysiak-trener-osobisty-triathlon-mtb-plywanie
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+oskar-kaliszewski-trener-personalny,trener-oskar-kaliszewski-trener-personalny,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-oskar-kaliszewski-trener-personalny
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+patryk-kozikowski,trener-patryk-kozikowski,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-patryk-kozikowski
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+patryk-michalek-trener-personalny,trener-patryk-michalek-trener-personalny,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-patryk-michalek-trener-personalny
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+trener-personalny-bydgoszcz-nicolas-marysiak,trener-trener-personalny-bydgoszcz-nicolas-marysiak,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-trener-personalny-bydgoszcz-nicolas-marysiak
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+trener-personalny-kamil-makowski,trener-trener-personalny-kamil-makowski,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-trener-personalny-kamil-makowski
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+trener-personalny-kamil-tyma,trener-trener-personalny-kamil-tyma,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-trener-personalny-kamil-tyma
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+trener-personalny-szymon-idzinski,trener-trener-personalny-szymon-idzinski,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-trener-personalny-szymon-idzinski
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+trener-radoslaw-habera,trener-trener-radoslaw-habera,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-trener-radoslaw-habera
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+trenerka-werka-weronika-szyczewska-tchorzewska,trener-trenerka-werka-weronika-szyczewska-tchorzewska,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-trenerka-werka-weronika-szyczewska-tchorzewska
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"
+wiktoria-wasik,trener-wiktoria-wasik,failed_deploy,,"
+Vercel CLI 50.19.1
+Retrieving project…
+Deploying noluczek-8035s-projects/trener-wiktoria-wasik
+Error: Resource is limited - try again in 8 hours (more than 100, code: ""api-deployments-free-per-day"").
+"

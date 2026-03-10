@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "am-kancelaria-rachunkowa-sp-z-o-o",
+    "heroText": "AM Kancelaria Rachunkowa wspiera firmy z Poznaniu w księgowości, podatkach i kadrach. Zapewniamy stały kontakt, terminowe rozliczenia i uporządkowany proces współpracy.",
+    "prices": [
+      "od 250 zł",
+      "od 700 zł",
+      "wycena indywidualna"
+    ]
+  },
+  {
+    "slug": "biuro-rachunkowe-poznan",
+    "heroText": "Biuro rachunkowe Poznań Ingenium. Prowadzimy księgowość tak, żebyś mógł skupić się na rozwoju firmy. Obsługujemy przedsiębiorców z Poznania.",
+    "prices": [
+      "wycena indywidualna",
+      "od 159 zł",
+      "od 199 zł",
+      "od 479 zł",
+      "od 549 zł"
+    ]
+  }
+]

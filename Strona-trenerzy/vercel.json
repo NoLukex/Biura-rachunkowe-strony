@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/crm",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/crm/(.*)",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/t/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

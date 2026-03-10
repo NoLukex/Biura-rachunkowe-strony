@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "am-kancelaria-rachunkowa-sp-z-o-o",
+    "viewport": "desktop",
+    "screenshot": "C:/Users/Krysiek/.gemini/antigravity/scratch/Biura rachunkowe/strona-demo/reports/micro_audit/am-kancelaria-rachunkowa-sp-z-o-o-desktop.png",
+    "heroText": "AM Kancelaria Rachunkowa wspiera firmy w Poznaniu w księgowości, podatkach i kadrach. Zapewniamy stały kontakt, terminowe rozliczenia i uporządkowany proces współpracy.",
+    "ctaLabels": [
+      "Umów darmową 15-minutową konsultację",
+      "Zobacz demo panelu klienta",
+      "Otrzymaj wycenę i plan startu",
+      "Wyślij zapytanie",
+      "Masz inne pytanie? Napisz do opiekuna"
+    ],
+    "hasStandard": "Jak dbamy o jakość obsługi",
+    "priceLabels": [
+      "od 250 zł",
+      "od 700 zł",
+      "wycena indywidualna"
+    ]
+  },
+  {
+    "slug": "am-kancelaria-rachunkowa-sp-z-o-o",
+    "viewport": "mobile",
+    "screenshot": "C:/Users/Krysiek/.gemini/antigravity/scratch/Biura rachunkowe/strona-demo/reports/micro_audit/am-kancelaria-rachunkowa-sp-z-o-o-mobile.png",
+    "heroText": "AM Kancelaria Rachunkowa wspiera firmy w Poznaniu w księgowości, podatkach i kadrach. Zapewniamy stały kontakt, terminowe rozliczenia i uporządkowany proces współpracy.",
+    "ctaLabels": [
+      "Umów darmową 15-minutową konsultację",
+      "Zobacz demo panelu klienta",
+      "Otrzymaj wycenę i plan startu",
+      "Wyślij zapytanie",
+      "Masz inne pytanie? Napisz do opiekuna"
+    ],
+    "hasStandard": "Jak dbamy o jakość obsługi",
+    "priceLabels": [
+      "od 250 zł",
+      "od 700 zł",
+      "wycena indywidualna"
+    ]
+  },
+  {
+    "slug": "biuro-rachunkowe-poznan",
+    "viewport": "desktop",
+    "screenshot": "C:/Users/Krysiek/.gemini/antigravity/scratch/Biura rachunkowe/strona-demo/reports/micro_audit/biuro-rachunkowe-poznan-desktop.png",
+    "heroText": "Biuro rachunkowe Poznań Ingenium. Prowadzimy księgowość tak, żebyś mógł skupić się na rozwoju firmy. Obsługujemy przedsiębiorców z Poznania.",
+    "ctaLabels": [
+      "Umów darmową 15-minutową konsultację",
+      "Zobacz demo panelu klienta",
+      "Otrzymaj wycenę i plan startu",
+      "Wyślij zapytanie",
+      "Masz inne pytanie? Napisz do opiekuna"
+    ],
+    "hasStandard": "Jak dbamy o jakość obsługi",
+    "priceLabels": [
+      "wycena indywidualna",
+      "od 159 zł",
+      "od 199 zł",
+      "od 479 zł",
+      "od 549 zł"
+    ]
+  },
+  {
+    "slug": "biuro-rachunkowe-poznan",
+    "viewport": "mobile",
+    "screenshot": "C:/Users/Krysiek/.gemini/antigravity/scratch/Biura rachunkowe/strona-demo/reports/micro_audit/biuro-rachunkowe-poznan-mobile.png",
+    "heroText": "Biuro rachunkowe Poznań Ingenium. Prowadzimy księgowość tak, żebyś mógł skupić się na rozwoju firmy. Obsługujemy przedsiębiorców z Poznania.",
+    "ctaLabels": [
+      "Umów darmową 15-minutową konsultację",
+      "Zobacz demo panelu klienta",
+      "Otrzymaj wycenę i plan startu",
+      "Wyślij zapytanie",
+      "Masz inne pytanie? Napisz do opiekuna"
+    ],
+    "hasStandard": "Jak dbamy o jakość obsługi",
+    "priceLabels": [
+      "wycena indywidualna",
+      "od 159 zł",
+      "od 199 zł",
+      "od 479 zł",
+      "od 549 zł"
+    ]
+  }
+]

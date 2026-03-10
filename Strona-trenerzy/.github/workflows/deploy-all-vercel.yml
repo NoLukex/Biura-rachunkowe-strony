@@ -1,0 +1,41 @@
+name: Deploy All Trainer Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-all-trainer-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy-all:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      VERCEL_TEAM_ID: ${{ secrets.VERCEL_TEAM_ID }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate required secrets
+        run: |
+          test -n "$VERCEL_TOKEN"
+          test -n "$VERCEL_TEAM_ID"
+
+      - name: Deploy new projects with email
+        run: python scripts/deploy_all_projects_from_repo.py --status deployed --new-deploy-only --require-email
+        working-directory: Strona-trenerzy
